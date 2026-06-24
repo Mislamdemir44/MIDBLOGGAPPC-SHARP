@@ -71,5 +71,5 @@ Projeyi yerel geliştirme ortamınızda çalıştırmak için aşağıdaki adım
 Projeyle ilgili sorularınız, iş birliği teklifleriniz veya geri bildirimleriniz için benimle aşağıdaki kanallar üzerinden iletişime geçebilirsiniz:
 
 - **Ad Soyad:** Muhammet İslam Demir
-- **LinkedIn:** [Muhammet İslam Demir](https://www.linkedin.com/in/mislamdemir44) *(Profil linkinizi buraya ekleyebilirsiniz)*
+- **LinkedIn:** [Muhammet İslam Demir]
 - **GitHub:** [@Mislamdemir44](https://github.com/Mislamdemir44)
