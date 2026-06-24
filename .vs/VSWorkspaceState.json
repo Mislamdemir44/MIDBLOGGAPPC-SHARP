@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\M_ID_Blog.Business\\bin\\Debug",
+    "\\M_ID_Blog.Business\\Concrete",
+    "\\M_ID_Blog.Business\\DTOs",
+    "\\M_ID_Blog.Business\\DTOs\\Category",
+    "\\M_ID_Blog.Web",
+    "\\M_ID_Blog.Web\\Areas",
+    "\\M_ID_Blog.Web\\Areas\\Admin",
+    "\\M_ID_Blog.Web\\Areas\\Admin\\Controllers"
+  ],
+  "SelectedNode": "\\M_ID_Blog.Web\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

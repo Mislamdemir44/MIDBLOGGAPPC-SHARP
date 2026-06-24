@@ -1,0 +1,7 @@
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Debug\net7.0\M_ID_Blog.Web.csproj.AssemblyReference.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Debug\net7.0\M_ID_Blog.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Debug\net7.0\M_ID_Blog.Web.AssemblyInfoInputs.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Debug\net7.0\M_ID_Blog.Web.AssemblyInfo.cs
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Debug\net7.0\M_ID_Blog.Web.csproj.CoreCompileInputs.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Debug\net7.0\M_ID_Blog.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Debug\net7.0\M_ID_Blog.Web.MvcApplicationPartsAssemblyInfo.cs

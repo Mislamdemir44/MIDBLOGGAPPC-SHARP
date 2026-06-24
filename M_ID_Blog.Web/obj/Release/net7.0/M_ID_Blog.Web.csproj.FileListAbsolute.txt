@@ -1,0 +1,6 @@
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Release\net7.0\M_ID_Blog.Web.csproj.AssemblyReference.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Release\net7.0\M_ID_Blog.Web.AssemblyInfoInputs.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Release\net7.0\M_ID_Blog.Web.AssemblyInfo.cs
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Release\net7.0\M_ID_Blog.Web.csproj.CoreCompileInputs.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Release\net7.0\M_ID_Blog.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\misla\Desktop\project\M_ID_Blog.Web\obj\Release\net7.0\M_ID_Blog.Web.MvcApplicationPartsAssemblyInfo.cache

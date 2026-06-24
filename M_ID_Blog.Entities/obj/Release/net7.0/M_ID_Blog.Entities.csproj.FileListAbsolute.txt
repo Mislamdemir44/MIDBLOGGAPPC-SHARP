@@ -1,0 +1,15 @@
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\bin\Release\net7.0\M_ID_Blog.Entities.deps.json
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\bin\Release\net7.0\M_ID_Blog.Entities.dll
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\bin\Release\net7.0\M_ID_Blog.Entities.pdb
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\bin\Release\net7.0\M_ID_Blog.Core.dll
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\bin\Release\net7.0\M_ID_Blog.Core.pdb
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blog.Entities.csproj.AssemblyReference.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blog.Entities.AssemblyInfoInputs.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blog.Entities.AssemblyInfo.cs
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blo.DBAD5E70.Up2Date
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blog.Entities.dll
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\refint\M_ID_Blog.Entities.dll
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\M_ID_Blog.Entities.pdb
+C:\Users\misla\Desktop\project\M_ID_Blog.Entities\obj\Release\net7.0\ref\M_ID_Blog.Entities.dll

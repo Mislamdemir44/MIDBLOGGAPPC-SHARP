@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misla\\Desktop\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|solutionrelative:m_id_blog.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.web\\m_id_blog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|solutionrelative:m_id_blog.web\\m_id_blog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D345A7-2E42-4BBF-AC76-0C33B3D2DEA6}|M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.entities\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D345A7-2E42-4BBF-AC76-0C33B3D2DEA6}|M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj|solutionrelative:m_id_blog.entities\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D345A7-2E42-4BBF-AC76-0C33B3D2DEA6}|M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.entities\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D345A7-2E42-4BBF-AC76-0C33B3D2DEA6}|M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj|solutionrelative:m_id_blog.entities\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D93230-5E44-471E-B49F-212DEDC5DF3B}|M_ID_Blog.Core\\M_ID_Blog.Core.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.core\\m_id_blog.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0D93230-5E44-471E-B49F-212DEDC5DF3B}|M_ID_Blog.Core\\M_ID_Blog.Core.csproj|solutionrelative:m_id_blog.core\\m_id_blog.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D345A7-2E42-4BBF-AC76-0C33B3D2DEA6}|M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.entities\\m_id_blog.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11D345A7-2E42-4BBF-AC76-0C33B3D2DEA6}|M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj|solutionrelative:m_id_blog.entities\\m_id_blog.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76991B9C-8F2E-4A4B-B6E5-93C3F0B1C9E0}|M_ID_Blog.DataAccess\\M_ID_Blog.DataAccess.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.dataaccess\\concrete\\entityframework\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76991B9C-8F2E-4A4B-B6E5-93C3F0B1C9E0}|M_ID_Blog.DataAccess\\M_ID_Blog.DataAccess.csproj|solutionrelative:m_id_blog.dataaccess\\concrete\\entityframework\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\abstract\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\abstract\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\dtos\\post\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\dtos\\post\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\dtos\\comment\\commentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\dtos\\comment\\commentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\dtos\\post\\postlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\dtos\\post\\postlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|solutionrelative:m_id_blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\concrete\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\concrete\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.web\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|solutionrelative:m_id_blog.web\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.web\\m_id_blog.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|solutionrelative:m_id_blog.web\\m_id_blog.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6C9EE9-A3C7-4E39-A3B7-45CC73699A4B}|M_ID_Blog.Web\\M_ID_Blog.Web.csproj|solutionrelative:m_id_blog.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|c:\\users\\misla\\desktop\\project\\m_id_blog.business\\concrete\\postmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B6AE9-6D26-4363-A5B9-49D4F5DC6EAA}|M_ID_Blog.Business\\M_ID_Blog.Business.csproj|solutionrelative:m_id_blog.business\\concrete\\postmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M_ID_Blog.Web",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "RelativeDocumentMoniker": "M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "RelativeToolTip": "M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T08:24:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Entities\\Concrete\\Comment.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Entities\\Concrete\\Comment.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Entities\\Concrete\\Comment.cs",
+              "RelativeToolTip": "M_ID_Blog.Entities\\Concrete\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:03:48.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "M_ID_Blog.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:57:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M_ID_Blog.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj",
+              "RelativeDocumentMoniker": "M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj",
+              "RelativeToolTip": "M_ID_Blog.Entities\\M_ID_Blog.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T13:23:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M_ID_Blog.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Core\\M_ID_Blog.Core.csproj",
+              "RelativeDocumentMoniker": "M_ID_Blog.Core\\M_ID_Blog.Core.csproj",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Core\\M_ID_Blog.Core.csproj",
+              "RelativeToolTip": "M_ID_Blog.Core\\M_ID_Blog.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T13:24:13.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.DataAccess\\Concrete\\EntityFramework\\EfCommentRepository.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.DataAccess\\Concrete\\EntityFramework\\EfCommentRepository.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.DataAccess\\Concrete\\EntityFramework\\EfCommentRepository.cs",
+              "RelativeToolTip": "M_ID_Blog.DataAccess\\Concrete\\EntityFramework\\EfCommentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:17:16.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\Post\\PostDto.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\DTOs\\Post\\PostDto.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\Post\\PostDto.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\DTOs\\Post\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:12:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:01:20.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Abstract\\IPostService.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\Abstract\\IPostService.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Abstract\\IPostService.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\Abstract\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:55:27.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostListDto.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\Post\\PostListDto.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\DTOs\\Post\\PostListDto.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\Post\\PostListDto.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\DTOs\\Post\\PostListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:01:23.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentListDto.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\Comment\\CommentListDto.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\DTOs\\Comment\\CommentListDto.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\DTOs\\Comment\\CommentListDto.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\DTOs\\Comment\\CommentListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:01:34.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Entities\\Concrete\\AppUser.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Entities\\Concrete\\AppUser.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Entities\\Concrete\\AppUser.cs",
+              "RelativeToolTip": "M_ID_Blog.Entities\\Concrete\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:32:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:24:08.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:23:39.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentManager.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Concrete\\CommentManager.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\Concrete\\CommentManager.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Concrete\\CommentManager.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\Concrete\\CommentManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:14:20.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Program.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Program.cs",
+              "RelativeToolTip": "M_ID_Blog.Web\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:14:07.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Web\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Controllers\\PostController.cs",
+              "RelativeToolTip": "M_ID_Blog.Web\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:09:08.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "M_ID_Blog.Web",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "RelativeDocumentMoniker": "M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "RelativeToolTip": "M_ID_Blog.Web\\M_ID_Blog.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T11:04:25.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "M_ID_Blog.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:55:04.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PostManager.cs",
+              "DocumentMoniker": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Concrete\\PostManager.cs",
+              "RelativeDocumentMoniker": "M_ID_Blog.Business\\Concrete\\PostManager.cs",
+              "ToolTip": "C:\\Users\\misla\\Desktop\\project\\M_ID_Blog.Business\\Concrete\\PostManager.cs",
+              "RelativeToolTip": "M_ID_Blog.Business\\Concrete\\PostManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:53:44.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
